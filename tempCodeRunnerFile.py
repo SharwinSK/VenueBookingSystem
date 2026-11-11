@@ -1,0 +1,2 @@
+
+        fg=TEXT_COLOR,
